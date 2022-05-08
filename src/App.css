@@ -1,0 +1,19 @@
+.nav{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+li{
+    display: inline;
+    margin: 50px;
+}
+
+.nav li:hover{
+    background-color: lightblue;
+}
+
+.container{
+    border-style: solid;
+    margin: 50px;
+}
